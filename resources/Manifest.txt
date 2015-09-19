@@ -1,0 +1,4 @@
+Main-Class: AZT
+Codebase: *
+Permissions: all-permissions
+

@@ -1,0 +1,3 @@
+Main-Class: JavaApplication1
+Permissions: all-permissions
+Codebase: *
